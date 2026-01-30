@@ -32,12 +32,10 @@ Key Insights
 - Water Bottle (30 oz) is the top-selling product
 - Regional performance varies across markets
 
-Dashboard Preview
-![Executive Summary](images/Excsummary.png)
-![Product Page](images/productpage.png)
-![Customer Page](images/customerpage.png)
+
 
  How to View
+Open the 'image' foler for preview on excutive summary, produt and customer
 Download the `.pbix` file and open with Power BI Desktop
 
 
