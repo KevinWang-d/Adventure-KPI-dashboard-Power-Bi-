@@ -36,6 +36,7 @@ Key Insights
 
  How to View
 Open the 'image' foler for preview on excutive summary, produt and customer
+
 Download the `.pbix` file and open with Power BI Desktop
 
 
