@@ -62,7 +62,8 @@ This project delivers a dynamic KPI dashboard that helps stakeholders track sale
 ![Customer Page](https://raw.githubusercontent.com/KevinWang-d/Adventure-KPI-dashboard-Power-Bi-/main/images/kpiimage/customerpage.png)
 
 ### Customer Insights
-![Customer Insights](images/customer_dashboard.png)
+![Product Page](https://raw.githubusercontent.com/KevinWang-d/Adventure-KPI-dashboard-Power-Bi-/main/images/kpiimage/productpage.png)
+
 
 
 ## 👀 How to View
