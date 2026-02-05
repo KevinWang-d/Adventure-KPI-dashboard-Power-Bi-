@@ -52,7 +52,17 @@ This project delivers a dynamic KPI dashboard that helps stakeholders track sale
 - **Water Bottle (30 oz)** emerged as the top-selling product
 - Regional performance showed significant market variation
 
----
+## 📸 Dashboard Preview
+
+### Executive Summary
+![Executive Summary](images/executive_summary.png)
+
+### Product Analysis
+![Product Analysis](images/product_analysis.png)
+
+### Customer Insights
+![Customer Insights](images/customer_dashboard.png)
+
 
 ## 👀 How to View
 
